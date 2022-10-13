@@ -20,6 +20,7 @@ body {
 }
 
 #form {
+    margin-top: 1rem;
     margin-bottom: 5rem;
 }
 
@@ -146,7 +147,7 @@ ul li span {
     }
     .profileContent p {
         width: 250px;
-        margin-left: -2.9rem;
+        align-self:center;
     }
 
     ul li {
