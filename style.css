@@ -144,6 +144,10 @@ ul li span {
     .profileContent h2 {
         text-align: center;
     }
+    .profileContent p {
+        width: 300px;
+        margin-left: -2.9rem;
+    }
 
     ul li {
         display: flex;
