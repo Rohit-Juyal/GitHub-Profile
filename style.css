@@ -146,6 +146,8 @@ ul li span {
     }
 
     .profileContent h2 {
+        width: 250px;
+        margin-left: -2.9rem;
         text-align: center;
     }
 
