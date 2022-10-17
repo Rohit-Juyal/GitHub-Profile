@@ -156,11 +156,14 @@ ul li span {
 
     ul li {
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
-        position: relative;
         padding: .5rem;
+    }
+
+    ul li span {
+        padding-bottom: .5rem;
     }
 
     .repos {
